@@ -8,3 +8,7 @@ As a context, Finches are a group of birds that Darwin was observing on Galapago
 My goal is to consolidate what I've learnt, put theory into (python) practice by statistically analysing the dataset of Finches beaks and visualise the insight to the audience.
 
 Dataset is available in inch_beaks_1975_2012 dataset.
+
+The statistical analysis focuses mostly on the beak depth size changes over time (1975 to 2012).
+
+![github image](https://bebi103a.github.io/_images/finch_beak_diagram.png)
